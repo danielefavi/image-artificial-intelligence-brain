@@ -1,7 +1,7 @@
 # image-artificial-intelligence-brain
 
 <p>
-  This is an image created with IMPRESS (yes with Impress!) that I used as featured image in an article of mine:
+  This is an image created with IMPRESS that I used as featured image in an article of mine:
 </p>
 <p align="center">
   <a href="https://www.danielefavi.com/ai-are-you-ready-for-the-coming-revolution/">AI: are you ready for the coming revolution?</a>
